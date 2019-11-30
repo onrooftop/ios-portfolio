@@ -18,4 +18,4 @@ this project is a simple todo app. You can create, update and delete task. I tri
 [here is source code](https://github.com/onrooftop/todo-app)
 
 
-### you can see my other works [this](https://github.com/onrooftop)
+## you can see my other [work](https://github.com/onrooftop)
