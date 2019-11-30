@@ -9,4 +9,11 @@
 
 [source code](https://github.com/onrooftop/letsmovie)
 
+
 ## Todo
+this project is a simple todo app. You can create, update and delete task. I tried to make this project with TDD method by using Realm with MVVM.
+
+
+![](todoapp.gif)
+
+[source code](https://github.com/onrooftop/todo-app)
